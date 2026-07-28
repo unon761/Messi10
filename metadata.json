@@ -1,0 +1,6 @@
+{
+  "name": "Pokémon GO Description Bot Dashboard",
+  "description": "Premium Pokémon GO account sales description writer Telegram bot. Features high-accuracy OCR screenshot analysis, Groq AI description writer, subscription/coins control panel, and an interactive simulated Telegram playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

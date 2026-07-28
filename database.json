@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "2084050520",
+      "username": "SauravPogo",
+      "coins": 0,
+      "free_trials_remaining": 3,
+      "subscription_expiry": null,
+      "descriptions_generated": 0,
+      "join_date": "2026-07-28T15:56:49.999Z"
+    },
+    {
+      "id": "7568676840",
+      "username": "Tanjiro7709",
+      "coins": 0,
+      "free_trials_remaining": 2,
+      "subscription_expiry": null,
+      "descriptions_generated": 1,
+      "join_date": "2026-07-28T15:57:06.325Z"
+    }
+  ],
+  "description_history": [],
+  "temporary_upload_queue": [],
+  "settings": {
+    "group_chat_id": null
+  }
+}
